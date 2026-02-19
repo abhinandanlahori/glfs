@@ -29,7 +29,7 @@ const Home: React.FC = () => {
               Simple, jargon-free advice that <span className="text-blue-400">puts you first</span>
             </h1>
             <p className="text-xl md:text-2xl text-white/90 mb-10 leading-relaxed font-medium drop-shadow-md">
-              Buying your first home, remortgaging or protecting your family, we’re here to make it simple, transparent and hassle-free. 
+              Buying your first home, remortgaging or protecting your family - we’re here to make it simple, transparent and hassle-free. 
             </p>
             <br />
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
