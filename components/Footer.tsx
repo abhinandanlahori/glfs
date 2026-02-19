@@ -56,7 +56,7 @@ const Footer: React.FC = () => {
               <p className="mt-2 italic">If you remain dissatisfied, you have the right to refer your complaint to the Financial Ombudsman Service (FOS)</p>
               <p className="mt-2">
                 Website: <a href="http://www.financial-ombudsman.org.uk" target="_blank" rel="noreferrer" className="text-blue-600 font-semibold">www.financial-ombudsman.org.uk</a> | 
-                Phone: <span className="font-semibold text-gray-700">020 3576 7725</span> | 
+                Phone: <span className="font-semibold text-gray-700">0800 023 4567 </span> | 
                 Address: Financial Ombudsman Service, Exchange Tower, London, E14 9SR
               </p>
             </div>
